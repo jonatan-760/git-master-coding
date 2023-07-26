@@ -8,7 +8,13 @@
     background: #32CD32;
 }
 
-.derecha {
+.derecha { 
+    position: absolute;
     float: right;
     background: #4682B4;
+    border-radius: 50px;
+
  }
+ img{
+width: 1000px; 
+}
